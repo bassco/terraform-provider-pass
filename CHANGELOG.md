@@ -1,3 +1,11 @@
+## 1.2.2 (June 05, 2020)
+
+ENHANCEMENTS:
+
+* Use Terraform v0.12.0
+* Mask sensitive data
+* use go 1.13
+
 ## 1.2.1 (June 05, 2019)
 
 ENHANCEMENTS:

@@ -3,7 +3,7 @@ package main
 /* Bootstrap the plugin for Pass */
 
 import (
-	"github.com/camptocamp/terraform-provider-pass/pass"
+	"github.com/bassco/terraform-provider-pass/pass"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 
